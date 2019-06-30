@@ -14,7 +14,7 @@ const unsigned int comprimentoFila = 50;
 const unsigned int vezesLedEstatus = 5;
 const unsigned int piscaWG = 200;
 const unsigned int piscaNormal = 600;
-bool modoTeste = true;
+bool modoTeste = false;
 
 unsigned int tempoLedEstatus = 0;
 unsigned int tempoLedSelec = piscaNormal;
